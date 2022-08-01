@@ -2,7 +2,7 @@
 Miscellaneous Tools by 330k
 
 ## Unicode Steganography with Zero-Width Characters
-http://330k.github.io/misc_tools/unicode_steganography.html
+https://trhacknon.github.io/misc_tools/unicode_steganography.html
 
 ## Show KML Layer on Google Maps Gadget for Google Sites
 http://330k.github.io/misc_tools/kmlmap_gadget.xml
