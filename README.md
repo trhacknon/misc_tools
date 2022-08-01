@@ -16,3 +16,7 @@ Usage:
 4. Disignate the above URL
 5. Input the URL to kml file to show
 6. Done!
+
+If you want try to décode this
+https://github.com/trhacknon/misc_tools/blob/gh-pages/stego_text.txt
+Download the  file and decode the content
