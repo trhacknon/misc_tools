@@ -1,0 +1,8 @@
+title: Misc tools
+description: Miscellaneous Tools
+google_analytics: UA-71005141-4
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
